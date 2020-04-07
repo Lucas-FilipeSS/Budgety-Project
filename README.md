@@ -1,2 +1,2 @@
 # Budgety-Project
-Projeto feito com JavaScript, CSS e HTML para conclusão de módulo do curso de JavaScript
+Projeto consiste em uma aplicação para controle de despesas, onde o usuário insere os dados como gastos e ganhos e são calculados lucros ou dívidas do mês.
